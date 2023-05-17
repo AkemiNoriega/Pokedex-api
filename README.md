@@ -7,12 +7,12 @@ Este el README para web que ha consumido una API de Pokemones utilizando diversa
 -Link de github
 -Deploy
 
-##FUNCIONALIDADES
+## FUNCIONALIDADES
 -La web muestra todos pokemones con descripciones basicas
 -Se filtra por tipo 
 -Se muestra una tarjeta con caracterisitcas completas de cada pokemon
 
-#USO
+# USO
 
 -Se consumió la API desde la pagina POKEAPI 
 -La dirección de la web por deploy es la siguiente: https://pokedex-apiakemi.netlify.app/
